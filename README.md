@@ -15,6 +15,12 @@ The goal was to build a model that accurately classifies various hand gestures b
 🔍 Task: Multiclass Hand Gesture Classification
 
 📊 Evaluation Metrics: Accuracy, Loss Graphs, and Confusion Matrix
+## 📊 Accuracy & Loss Graphs
+![Accuracy & Loss](/accuracy_loss_plot.png)
+
+## 📌 Confusion Matrix
+![Confusion Matrix](/confusion_matrix.png)
+
 
 🔥 Workflow Summary
 Data Preprocessing:
