@@ -65,9 +65,6 @@ Enhanced understanding of gesture recognition systems.
 
 Improved ability to visualize model performance using confusion matrices and metric graphs.
 
-🌐 Repository Link
-👉 Hand Gesture Recognition — GitHub Repo
-
 ✅ Task 4 Successfully Completed!
 Looking forward to applying this knowledge to even more complex Computer Vision problems! 🚀
 
